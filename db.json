@@ -9,12 +9,8 @@
       "img_url": "https://books.google.com/books/content?id=3S8Rwr-iBdoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 2,
-          "username": "auer"
-        },
-        {
-          "id": 8,
-          "username": "maverick"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -25,24 +21,7 @@
       "description": "Data is fundamental to the modern world. From economic development, to healthcare, to education and public policy, we rely on numbers to allocate resources and make crucial decisions. But because so much data fails to take into account gender, because it treats men as the default and women as atypical, bias and discrimination are baked into our systems. And women pay tremendous costs for this bias, in time, money, and often with their lives.",
       "author": "Caroline Criado Perez",
       "img_url": "https://books.google.com/books/content?id=GdmEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 4,
-          "username": "ann"
-        },
-        {
-          "id": 6,
-          "username": "steuber"
-        },
-        {
-          "id": 1,
-          "username": "pouros"
-        }
-      ]
+      "users": []
     },
     {
       "id": 3,
@@ -68,16 +47,7 @@
       "description": "Her own powerful story up to 1972, told with warmth, brilliance, humor and conviction. With an introduction by the author.",
       "author": "Angela Y. Davis ",
       "img_url": "http://books.google.com/books/content?id=S3yODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 8,
-          "username": "maverick"
-        }
-      ]
+      "users": []
     },
     {
       "id": 5,
@@ -86,20 +56,7 @@
       "description": "Pocket Change Collective was born out of a need for space. Space to think. Space to connect. Space to be yourself. And this is your invitation to join us. 'Thank God we have Alok. And I'm learning a thing or two myself'--Billy Porter, Emmy award-winning actor, singer, and Broadway theater performer",
       "author": "Alok Vaid-Menon",
       "img_url": "https://books.google.com/books/content?id=hxGuDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 4,
-          "username": "ann"
-        },
-        {
-          "id": 8,
-          "username": "maverick"
-        }
-      ]
+      "users": []
     },
     {
       "id": 6,
@@ -126,16 +83,7 @@
       "description": "An intimate, moving book written with the immediacy and directness of one who still struggles with the effects of mental and chronic illness, The Collected Schizophrenias cuts right to the core. Schizophrenia is not a single unifying diagnosis, and Esmé Weijun Wang writes not just to her fellow members of the “collected schizophrenias” but to those who wish to understand it as well. Opening with the journey toward her diagnosis of schizoaffective disorder, Wang discusses the medical community’s own disagreement about labels and procedures for diagnosing those with mental illness, and then follows an arc that examines the manifestations of schizophrenia in her life. In essays that range from using fashion to present as high-functioning to the depths of a rare form of psychosis, and from the failures of the higher education system and the dangers of institutionalization to the complexity of compounding factors such as PTSD and Lyme disease, Wang’s analytical eye, honed as a former lab researcher at Stanford, allows her to balance research with personal narrative. An essay collection of undeniable power, The Collected Schizophrenias dispels misconceptions and provides insight into a condition long misunderstood.",
       "author": "Esmé Weijun Wang",
       "img_url": "http://books.google.com/books/content?id=FLFoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 3,
-          "username": "marvin"
-        },
-        {
-          "id": 5,
-          "username": "feels-like-summer"
-        }
-      ]
+      "users": []
     },
     {
       "id": 8,
@@ -190,12 +138,8 @@
       "img_url": "http://books.google.com/books/content?id=fc8PDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
-          "username": "maverick"
-        },
-        {
-          "id": 10,
-          "username": "macejkovic"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -206,16 +150,7 @@
       "description": "Behold the Dreamers is the 2016 debut novel by Imbolo Mbue. The novel details the experiences of two New York City families during the 2008 financial crisis: an immigrant family from Cameroon, the Jonga family, and their wealthy employers, the Edwards family.",
       "author": "Imbolo Mbue",
       "img_url": "http://books.google.com/books/content?id=nEcsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 8,
-          "username": "maverick"
-        },
-        {
-          "id": 10,
-          "username": "macejkovic"
-        }
-      ]
+      "users": []
     }
   ],
   "users": [
